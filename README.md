@@ -71,7 +71,7 @@ The project uses a custom dataset named `leetcode_questions_processed1.csv`, whi
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/abhishekpatel10/Leetcode_problem_difiiculty_predictor.git
-    cd YOUR_REPOSITORY_NAME
+    cd Leetcode_problem_difiiculty_predictor
     ```
 
 2.  **Install the required libraries:**
